@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MOTOR_TERMINAL_BREAKOUT")(type "KiCad")(uri "${KIPRJMOD}/MOTOR_TERMINAL_BREAKOUT.pretty")(options "")(descr ""))
+)

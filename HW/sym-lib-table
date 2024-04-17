@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MOTOR_TERMINAL_BREAKOUT")(type "KiCad")(uri "${KIPRJMOD}/MOTOR_TERMINAL_BREAKOUT.kicad_sym")(options "")(descr ""))
+)
